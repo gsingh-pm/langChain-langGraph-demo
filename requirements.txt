@@ -1,0 +1,17 @@
+ipykernel
+pydantic
+langchain
+python-dotenv
+langchain-community
+pypdf
+bs4
+langchain-openai
+langchain-chroma
+fastapi
+uvicorn
+langserve
+sse_starlette
+wikipedia
+langgraph
+langgraph-cli
+langgraph-api
